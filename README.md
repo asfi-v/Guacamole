@@ -49,11 +49,15 @@ Click the “Deploy the Stack” button
 
 - Give your tunnel a name and click the save button.
 
+## On the next page
+
+- Click the "Docker" button. The screen will change and you'll see a Docker comman that you'll need to run
+
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/122872447/218717892-115de2cc-7cb2-4dea-9b09-4da474565466.jpg">
 
-- On the next page, click the "Docker" button. The screen will change and you'll see a Docker comman that you'll need to run
+- Copy the docker run command and then 
 
-- Copy the docker run command and then log into your Docker server via the terminal.
+## Login into your Docker server via the terminal:
 
 - Once you're logged in, paste the command you just copied and let the docker container deploy.
 
