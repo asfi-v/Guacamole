@@ -74,6 +74,6 @@ Click the “Deploy the Stack” button
 
 - Go to http://guacamole.yourdomain.com , you’ll be taken to the Guacamole dashboard!
 
-## Default User:
+## Default User:-
 
 - The default username ```guacadmin``` with password ```guacadmin```
