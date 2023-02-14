@@ -36,6 +36,7 @@ volumes:
 Click the “Deploy the Stack” button
 
 ## Go to your CloudFlare :
+
 - Once you have the prerequisites  
 
 - The next thing you're going to do is head over to CloudFlare's Zero Trust dashboard.(https://one.dash.cloudflare.com/)
@@ -44,7 +45,11 @@ Click the “Deploy the Stack” button
 
 - Then click the "Create a tunnel" button.
 
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/122872447/218714936-5cdf3413-ad7d-49bb-977d-ee9672426afe.png">
+
 - Give your tunnel a name and click the save button.
+
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/122872447/218717892-115de2cc-7cb2-4dea-9b09-4da474565466.jpg">
 
 - On the next page, click the "Docker" button. The screen will change and you'll see a Docker comman that you'll need to run
 
@@ -63,6 +68,8 @@ Click the “Deploy the Stack” button
 - In Public hostname : Enter Sub-domain: http://guacamole.yourdomain.com
 
 - Select yourdomain
+
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/122872447/218716864-78c71a1a-6c63-44bf-885f-16cb20c38a29.jpg">
 
 - You'll select your service (http, https, ssh, rdp, etc) from the drop-down and then enter the ip address and port number of the Guacamole Application to access
 
